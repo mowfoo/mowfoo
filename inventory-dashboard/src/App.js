@@ -1,10 +1,10 @@
 import React from 'react';
-import IPInventoryDashboard from './IPInventoryDashboard';
+import MarioGame from './MarioGame';
 
 function App() {
   return (
     <div className="App">
-      <IPInventoryDashboard />
+      <MarioGame />
     </div>
   );
 }
